@@ -1,0 +1,10 @@
+body {
+	background: #f1f1f1;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	text-rendering: optimizeLegibility;
+	text-align: center;
+	margin: 100px;
+}
+
+p { margin-bottom: 2em; }
