@@ -4,9 +4,9 @@
 html {overflow-y: scroll;}
 
 body {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Verdana, Arial, sans-serif;
 	font-size: 15px;
-	background-color: #f1f1f1;
+	background-color: white;
 	text-align: center;
 	margin: 50px 0;
 }
@@ -30,7 +30,7 @@ body > * {
 .portrait {
 	width: 160px;
 	height: 180px;
-	border: 8px outset #ffffff;
+	border: 8px outset #ccc;
 	position: relative;
 	margin: 0 auto;
 	/* http://lea.verou.me/css3patterns/#upholstery */
